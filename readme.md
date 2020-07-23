@@ -1,1 +1,1 @@
-##Adding scripts that help me to automate the boaring stuffs. 
+## Adding scripts that help me to automate the boaring stuffs. 
